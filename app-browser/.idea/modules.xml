@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1320419667/KermitSample.iml" filepath="$PROJECT_DIR$/.idea/modules/1320419667/KermitSample.iml" group="KermitSample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-411830427/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-411830427/app.iml" group="KermitSample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-browser.iml" filepath="$PROJECT_DIR$/.idea/modules/app-browser.iml" group="KermitSample/app-browser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-browser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-browser_main.iml" group="app-browser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-browser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-browser_test.iml" group="app-browser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared.iml" group="KermitSample/shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_commonMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_commonTest.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_iosMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_iosTest.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_jsMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_jsTest.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_jvmMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1906050911/shared_jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1906050911/shared_jvmTest.iml" group="shared" />
+    </modules>
+  </component>
+</project>

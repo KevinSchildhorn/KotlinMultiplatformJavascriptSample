@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+	package
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:13:5-39
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:1-15:12
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml:12:11-69
+uses-sdk
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/kevinschildhorn/Documents/projects/KotlinMultiplatformJavascriptSample/shared/src/androidMain/AndroidManifest.xml

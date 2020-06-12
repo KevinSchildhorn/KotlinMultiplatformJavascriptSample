@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:kermit-js:0.1.5" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-js/0.1.5/73197618ae10570d7b2dda634a86eeb7335638bb/kermit-js-0.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/kermit-js/0.1.5/c72c3e2dbc70d6f94c56f910a1af52673ccc66b/kermit-js-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
